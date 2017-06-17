@@ -12,7 +12,7 @@ Interviewee(s):
 
 Interview date:
 
-*Use this series of questions to obtain a sketch of how the software team does its work. Interviewer should state at the beginning of interview, “At any time you can stop the interview and/or not have to answer a question you don’t want to.”*
+*Use this series of questions to obtain a sketch of how the software team does its work. Interviewer should state at the beginning of interview, “At any time you can stop the interview and/or do not have to answer a question if you don’t want to.”*
 
 **Team Profile**
 
